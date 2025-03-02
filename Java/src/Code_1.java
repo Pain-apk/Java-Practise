@@ -8,5 +8,11 @@ System.out.println("This is first Code in java");
  int num;
  num=100;
  System.out.println("The number is "+num);
+ if(num>200){
+    System.out.println("The number is greater than 200");
+ }
+    else{ 
+ System.out.println("The number is less than 200");
+    }
 }
 }
