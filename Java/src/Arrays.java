@@ -9,12 +9,14 @@ public static void main(String []args){
     month_days[4]=31;
     month_days[5]=30;
     month_days[6]=31;
-    month_days[7]=30;
-    month_days[8]=31;
-    month_days[9]=30;
-    month_days[10]=31;
-    month_days[11]=30;
-    month_days[12]=31;
-System.out.println("The array is "+month_days);
+    month_days[7]=31;
+    month_days[8]=30;
+    month_days[9]=31;
+    month_days[10]=30;
+    month_days[11]=31;
+    int i;
+    for(i=0;i<12;i++){
+System.out.println("The array is "+month_days[i]);
+    }
 }
 }
