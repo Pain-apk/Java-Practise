@@ -5,5 +5,8 @@ System.out.println("This is first Code in java");
 /*As you see in above statement we called system method and
  then inside system method we called print instruction with this
  One can print output */
+ int num;
+ num=100;
+ System.out.println("The number is "+num);
 }
 }
