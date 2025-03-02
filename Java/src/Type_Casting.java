@@ -9,7 +9,7 @@ public static void main(String []args){
     System.out.println(a);
     //Manual Casting(Narrowing)
     int c;
-    double d;s
+    double d;
     d = 3.4;
     c= (int) d;
     System.out.println(c);
