@@ -14,8 +14,5 @@ public static void main(String []args){
     c= (int) d;
     System.out.println(c);
 
-
-
-
 }
 }
